@@ -1,0 +1,17 @@
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h2{
+ text-decoration: none;
+    background-color: rgb(244, 132, 203);
+    color: black;
+    padding: 0.3em;
+    border-radius:0.2em;
+}
+h2:hover{
+    background-color:rgb(218, 197, 238);
+    color: crimson;
+}
